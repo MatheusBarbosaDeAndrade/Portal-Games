@@ -1,0 +1,59 @@
+
+header {
+    background-color: #333; 
+    color: white; 
+    padding: 12px; 
+    display: flex; 
+    
+}
+img {
+    margin-right: 20px; 
+}
+#pes{
+    padding: 50px;
+}
+
+.search-icon {
+    margin-left: auto; 
+    color: white; 
+    cursor: pointer; 
+}
+
+h1 {
+    margin-left: 2%;
+    margin-bottom: 10; 
+}
+
+/* Estilos para a navegação */
+nav {
+    background-color: #444; 
+    padding: 10px; 
+    align-items: center;
+}
+
+ul {
+    list-style-type: none; 
+    padding: 0; 
+   
+}
+
+li {
+   display: inline;
+    margin-right: 35px; 
+    
+}
+
+a {
+    color: white; 
+    text-decoration: none; 
+   
+}
+
+
+/* Estilos para o rodapé */
+footer {
+    background-color: #333; 
+    color: white;
+    padding: 10px; 
+    text-align: center; 
+}
